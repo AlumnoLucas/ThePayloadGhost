@@ -53,7 +53,7 @@ mv $name2.apk $finish
 
 	-s) echo "-c option passed" 
     
-    ;; n
+    ;; 
 
     -r) echo "-c option passed" 
     
