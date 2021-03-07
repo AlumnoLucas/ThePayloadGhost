@@ -1,14 +1,4 @@
 #!/bin/bash
-echo " 
-       -w WhatsApp 
-       -f Facebook
-       -s Spotify
-       -r Repelis-plus
-       -e Es-File
-       -i Instagram
-       -t Twitter
-       -n Netflix
-       -d Dialer (call) "
 while [ -n "$1" ]; do 
 
 	case "$1" in
