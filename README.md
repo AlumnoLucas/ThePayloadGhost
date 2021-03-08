@@ -2,7 +2,7 @@
 <br>
 <h1>The Payload Ghost for Termux</h1>
 <p>this program to run in termux must be run within i-Haklab to run without dependency errors.
-If not try download Java / keytool / jarsigner / metasploit-framework / apktool / util-linux</p>
+If not try to manually download the following dependencies:</p>
 <hr>
 <h6>i-Haklab:</h6><p> https://github.com/ivam3/i-Haklab</p>
 <h6>Java:</h6><p> https://www.java.com/</p>
