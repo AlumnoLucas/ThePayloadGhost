@@ -5,6 +5,12 @@
 If not try download Java / keytool / jarsigner / metasploit-framework / apktool / util-linux</p>
 <hr>
 <h6>i-Haklab:</h6><p> https://github.com/ivam3/i-Haklab</p>
+<h6>Java:</h6><p> https://www.java.com/</p>
+<h6>Keytool:</h6><p> https://github.com/mojohaus/keytool</p>
+<h6>Jarsigner:</h6><p> https://github.com/ivam3/i-Haklab</p>
+<h6>Metasploit-Framework:</h6><p> https://github.com/ivam3/i-Haklab</p>
+<h6>Apktool:</h6><p> https://github.com/ivam3/i-Haklab</p>
+<h6>util-linux:</h6><p> https://lore.kernel.org/util-linux/</p>
 <hr>
  <blockquote class="blockquote">
               
