@@ -1,6 +1,10 @@
 <img src="termux.png">
 <br>
 <h1>The Payload Ghost for Termux</h1>
+<p>this program to run in termux must be run within i-Haklab to run without dependency errors.
+If not try download Java / keytool / jarsigner / metasploit-framework / apktool / util-linux</p>
+<hr>
+
 <hr>
  <blockquote class="blockquote">
               
