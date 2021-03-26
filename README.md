@@ -1,10 +1,14 @@
 <img src="banner.png">
 <br>
-<h1>The Payload Ghost for </h1>
-<p>You must unzip the Images.zip file and then move it to the Images folder to the path: / usr / share. You should have previously given permissions to that folder.
-If you like you can move the tph launcher to / bin or / usr / bin.</p>
-<p>If not, try manually downloading the following dependencies (on many Linux distros they come from the package manager):  </p>
+<h1>Introduction</h1>
+<p>You must unzip the Images.zip file and then move it to the Images folder at the path:</p> 
+ / usr / share
+<p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to </p>
+/ bin or / usr / bin.
+<br>
+<p>Otherwise, try manually downloading the following dependencies (in many Linux distributions they come from the package manager):</p>
 <hr>
+<h1>Dpe
 <h6>Java:</h6><p> https://www.java.com/</p>
 <h6>Keytool:</h6><p> https://docs.oracle.com/en/java/javase/11/tools/keytool.html</p>
 <h6>Jarsigner:</h6><p> https://docs.oracle.com/en/java/javase/11/tools/jarsigner.html</p>
