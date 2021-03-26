@@ -14,7 +14,9 @@
 <p>In your linux environment you should have the dependencies shown below and the steps above.
 Here are the commands to automate everything (TPG does not have a program to uninstall so remember the steps).</p>
 <br>
+<code>
 sudo chmod +x tpg Images && unzip Images.zip && cp -r Images /usr/share/ && cp tpg /bin
+</code>
 <hr>
 <h1>dependencies</h1>
 <h6>Java:</h6><p> https://www.java.com/</p>
