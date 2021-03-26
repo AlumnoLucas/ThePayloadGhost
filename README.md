@@ -4,7 +4,7 @@
 <p>The Payload Ghost is a simple script that depends on different programs to make its only purpose functional, which is to camouflage a Metasploit-Framework payload by changing the Icon and name.</p>
 <hr>
 <h1>Introduction</h1>
-<p>You must unzip the Images.zip file and then move it to the Images folder at the path:</p><code> /usr/share</code>
+<p>You must unzip the Images.zip file and then move it to the Images folder at the path:<code> /usr/share</code>
 <br>
 <p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to <code>/bin or /usr/bin</code> .</p>
 <br>
