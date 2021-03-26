@@ -15,10 +15,10 @@
 Here are the commands to automate everything (TPG does not have a program to uninstall so remember the steps).</p>
 <br>
 $
-chmod +x tpg Images
-unzip Images.zip
-cp -r Images /usr/share/
-cp tph /bin
+&& chmod +x tpg Images
+&& unzip Images.zip
+&& cp -r Images /usr/share/
+&& cp tpg /bin
 <hr>
 <h1>dependencies</h1>
 <h6>Java:</h6><p> https://www.java.com/</p>
