@@ -31,7 +31,7 @@ sudo chmod +x tpg Images && unzip Images.zip && cp -r Images /usr/share/ && cp t
 <img src="nethunter.JPEG">
 <hr>
 <h1>about</h1>
-<h6>Twitter: https://twitter.com/horse_arg      
-GitHub:  https://github.com/TheHorseOnFireARG
-GitLab:  https://gitlab.com/TheHorseOnFireARG  
-Twitch:  https://www.twitch.tv/horse_arg </h6>
+<h6>Twitter: https://twitter.com/horse_arg        </h6>
+<h6>GitHub:  https://github.com/TheHorseOnFireARG </h6>
+<h6>GitLab:  https://gitlab.com/TheHorseOnFireARG </h6>  
+<h6>Twitch:  https://www.twitch.tv/horse_arg      </h6>
