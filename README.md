@@ -5,10 +5,9 @@
  / usr / share
 <p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to </p>
 / bin or / usr / bin.
-<br>
 <p>Otherwise, try manually downloading the following dependencies (in many Linux distributions they come from the package manager):</p>
 <hr>
-<h1>Dpe
+<h1>dependencies</h1>
 <h6>Java:</h6><p> https://www.java.com/</p>
 <h6>Keytool:</h6><p> https://docs.oracle.com/en/java/javase/11/tools/keytool.html</p>
 <h6>Jarsigner:</h6><p> https://docs.oracle.com/en/java/javase/11/tools/jarsigner.html</p>
