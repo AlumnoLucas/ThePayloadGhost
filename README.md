@@ -2,7 +2,7 @@
 <h1>What is the Payload Ghost?</h1>
 <p>The Payload Ghost is a simple script that depends on different programs to make its only purpose functional, which is to camouflage a Metasploit-Framework payload by changing 
 the Icon and name.</p>
-<img src="banner.jpeg">
+<img src="banner.JPEG">
 <hr>
 <h1>Introduction</h1>
 <p>You must unzip the Images.zip file and then move it to the Images folder at the path:<code>/usr/share</code>
