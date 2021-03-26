@@ -1,7 +1,8 @@
 <img src="banner.png">
 <br>
 <h1>The Payload Ghost for </h1>
-<p>this program to run in termux must be run within i-Haklab to run without dependency errors.
+<p>You must unzip the Images.zip file and then move it to the Images folder to the path: / usr / share. You should have previously given permissions to that folder.
+If you like you can move the tph launcher to / bin or / usr / bin
 If not try to manually download the following dependencies:</p>
 <hr>
 <h6>Java:</h6><p> https://www.java.com/</p>
