@@ -30,3 +30,8 @@ sudo chmod +x tpg Images && unzip Images.zip && cp -r Images /usr/share/ && cp t
 <h1>Termux Proot-Distro Nethunter</h1>
 <img src="nethunter.JPEG">
 <hr>
+<h1>about</h1>
+<h6>Twitter: https://twitter.com/horse_arg </h6>         
+GitHub:  https://github.com/TheHorseOnFireARG  
+GitLab:  https://gitlab.com/TheHorseOnFireARG  
+Twitch:  https://www.twitch.tv/horse_arg
