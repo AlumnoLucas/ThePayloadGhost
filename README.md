@@ -27,3 +27,6 @@ sudo chmod +x tpg Images && unzip Images.zip && cp -r Images /usr/share/ && cp t
 <h6>Apktool:</h6><p> https://ibotpeaches.github.io/Apktool/install/</p>
 <h6>util-linux:</h6><p> https://lore.kernel.org/util-linux/</p>
 <hr>
+<h1>Termux Proot-Distro Nethunter</h1>
+<img src="nethunter.JPEG">
+<hr>
