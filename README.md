@@ -1,4 +1,3 @@
-<br>
 <h1>What is the Payload Ghost?</h1>
 <p>The Payload Ghost is a simple script that depends on different programs to make its only purpose functional, which is to camouflage a Metasploit-Framework payload by changing 
 the Icon and name.</p>
