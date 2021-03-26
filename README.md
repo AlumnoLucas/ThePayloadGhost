@@ -2,8 +2,8 @@
 <br>
 <h1>The Payload Ghost for </h1>
 <p>You must unzip the Images.zip file and then move it to the Images folder to the path: / usr / share. You should have previously given permissions to that folder.
-If you like you can move the tph launcher to / bin or / usr / bin
-If not try to manually download the following dependencies:</p>
+If you like you can move the tph launcher to / bin or / usr / bin.</p>
+<p>If not try to manually download the following dependencies:</p>
 <hr>
 <h6>Java:</h6><p> https://www.java.com/</p>
 <h6>Keytool:</h6><p> https://docs.oracle.com/en/java/javase/11/tools/keytool.html</p>
