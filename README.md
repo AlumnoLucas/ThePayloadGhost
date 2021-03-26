@@ -1,15 +1,25 @@
 <img src="banner.png">
 <br>
+<h1>What is the Payload Ghost?</h1>
+<p>The Payload Ghost is a simple script that depends on different programs to make its only purpose functional, which is to camouflage a Metasploit-Framework payload by changing the Icon and name.</p>
+<hr>
 <h1>Introduction</h1>
-<p>You must unzip the Images.zip file and then move it to the Images folder at the path:</p> 
-<q>
- / usr / share
-</q>
-<p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to </p>
-<p class="mb-0">
-/ bin or / usr / bin.
-</p class="mb-0">
+<p>You must unzip the Images.zip file and then move it to the Images folder at the path: /usr/share</p>
+<br>
+<p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to /bin or /usr/bin.</p>
+<br>
 <p>Otherwise, try manually downloading the following dependencies (in many Linux distributions they come from the package manager):</p>
+<hr>
+<h1>Installation:</h1>
+<p>In your linux environment you should have the dependencies shown below and the steps above.
+Here are the commands to automate everything (TPG does not have a program to uninstall so remember the steps).</p>
+<br>
+<p>
+chmod +x tpg Images
+unzip Images.zip
+cp -r Images /usr/share/
+cp tph /bin
+</p>
 <hr>
 <h1>dependencies</h1>
 <h6>Java:</h6><p> https://www.java.com/</p>
@@ -19,19 +29,3 @@
 <h6>Apktool:</h6><p> https://ibotpeaches.github.io/Apktool/install/</p>
 <h6>util-linux:</h6><p> https://lore.kernel.org/util-linux/</p>
 <hr>
- <blockquote class="blockquote">
-              
-<p class="mb-0">           
-         
-                     Information                             Options 
-       the payload ghost is a program to generate         -w WhatsApp 
-       msfvenom payloads but with a very curious end      -f Facebook 
-       result, since it changes its appearance            -s Spotify 
-       to look like very fashionable applications.        -r Repelis-plus 
-       <DISCLAIMER>: TheHorseOnFireARG is not             -e Es-File 
-       responsible for the misuse of this program         -i Instagram 
-       is created with the purpose of using it in         -t Twitter 
-       controlled environments.                           -n Netflix 
-                                                          -d Dialer (call)
-       about me                                           -a about
-      
