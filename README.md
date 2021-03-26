@@ -6,7 +6,8 @@ the Icon and name.</p>
 <h1>Introduction</h1>
 <p>You must unzip the Images.zip file and then move it to the Images folder at the path:<code>/usr/share</code>
 <br>
-<p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to <code>/bin or /usr/bin</code> .</p>
+<p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to 
+  <code>/bin or /usr/bin</code> .</p>
 <br>
 <p>Otherwise, try manually downloading the following dependencies (in many Linux distributions they come from the package manager):</p>
 <hr>
