@@ -2,9 +2,13 @@
 <br>
 <h1>Introduction</h1>
 <p>You must unzip the Images.zip file and then move it to the Images folder at the path:</p> 
+<p class="mb-0">
  / usr / share
+</p class="mb-0">
 <p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to </p>
+<p class="mb-0">
 / bin or / usr / bin.
+</p class="mb-0">
 <p>Otherwise, try manually downloading the following dependencies (in many Linux distributions they come from the package manager):</p>
 <hr>
 <h1>dependencies</h1>
