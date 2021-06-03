@@ -1,7 +1,7 @@
 <h1>What is the Payload Ghost?</h1>
 <p>The Payload Ghost is a simple script that depends on different programs to make its only purpose functional, which is to camouflage a Metasploit-Framework payload by changing 
 the Icon and name.</p>
-<img src="photo.JPEG">
+<img src="https://github.com/TheHorseOnFireARG/ThePayloadGhost/blob/main/wallpaper/photo.JPEG">
 <hr>
 <h1>Introduction</h1>
 <p>You must unzip the Images.zip file and then move it to the Images folder at the path:<code>/usr/share</code>
@@ -28,7 +28,7 @@ unzip Images.zip > chmod +x tpg Images > cp -r Images /usr/share/ > cp tpg /bin
 <h6>util-linux:</h6><p> https://lore.kernel.org/util-linux/</p>
 <hr>
 <h1>Picture of the program running</h1>
-<img src="kali.png">
+<img src="https://github.com/TheHorseOnFireARG/ThePayloadGhost/blob/main/wallpaper/kali.png">
 <hr>
 <h1>about</h1>
 <h6>Twitter: https://twitter.com/horse_arg        </h6>
