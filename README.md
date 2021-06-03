@@ -27,8 +27,8 @@ unzip Images.zip > chmod +x tpg Images > cp -r Images /usr/share/ > cp tpg /bin
 <h6>Apktool:</h6><p> https://ibotpeaches.github.io/Apktool/install/</p>
 <h6>util-linux:</h6><p> https://lore.kernel.org/util-linux/</p>
 <hr>
-<h1>Termux Proot-Distro Nethunter</h1>
-<img src="nethunter.JPEG">
+<h1>Picture of the program running</h1>
+<img src="kali.png>
 <hr>
 <h1>about</h1>
 <h6>Twitter: https://twitter.com/horse_arg        </h6>
