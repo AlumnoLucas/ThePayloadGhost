@@ -247,6 +247,7 @@ mv $name2.apk $finish
 echo ""
 sudo rm -rf /usr/Imagenes/
 sudo rm -rf /usr/local/bin/tpg
+sudo rm -rf /usr/share/applications/tpg.desktop
 echo " The Payload Ghost is no longer on your system. Come back soon ;) "
 sudo apt-get remove metasploit-framework -y
 sudo apt-get remove apktool -y
