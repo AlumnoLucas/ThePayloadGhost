@@ -19,7 +19,7 @@ unzip Imagenes
 sudo chmod +x *
 sudo cp -r Imagenes /usr/share/
 sudo cp tpg /usr/local/bin
-sudo cp tpg /usr/share/applications
+sudo cp tpg.desktop /usr/share/applications
 echo ""
 setterm -foreground red
 echo ""
