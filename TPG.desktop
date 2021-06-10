@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=The Payload Ghost
+Encoding=UTF-8
+Exec=/usr/local/bin/exec-in-shell "sudo tpg"
+Icon=/usr/share/Imagenes/Icon/icono.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=Network;Security;
+
