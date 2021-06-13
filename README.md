@@ -7,7 +7,7 @@ the Icon and name.</p>
 <p>You must download the package according to your system.
 I am going to assume that you are on a Debian distribution such as Kali Linux from i386 / amd64 or Parrot OS amd64. BlackArch amd64 from Arch Linux</p>
 <h6>Kali Linux from i386 / amd64 or Parrot OS amd64</h6>
-<code>wget https://www.github.com/TheHorseOnFireARG/ThePayloadGhost/debian/thepayloadghost-version-architecture.deb</code>
+<code>wget https://www.github.com/TheHorseOnFireARG/ThePayloadGhost/Debian/thepayloadghost-version-architecture.deb</code>
 <br>
 <code>sudo dpkg -i thepayloadghost-version-architecture.deb</code>
 <br>
