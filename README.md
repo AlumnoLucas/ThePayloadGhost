@@ -4,19 +4,26 @@ the Icon and name.</p>
 <img src="https://github.com/TheHorseOnFireARG/ThePayloadGhost/blob/main/wallpaper/photo.JPEG">
 <hr>
 <h1>Introduction</h1>
-<p>You must unzip the Images.zip file and then move it to the Images folder at the path:<code>/usr/share</code>
+<p>You must download the package according to your system.
+I am going to assume that you are on a Debian distribution such as Kali Linux from i386 / amd64 or Parrot OS amd64. BlackArch amd64 from Arch Linux</p>
+<h6>Kali Linux from i386 / amd64 or Parrot OS amd64</h6>
+<code>wget https://www.github.com/TheHorseOnFireARG/ThePayloadGhost/debian/thepayloadghost-version-architecture.deb</code>
 <br>
-<p>You should have previously granted permissions to that folder. If you want, you can move the tpg launcher to 
-  <code>/bin or /usr/bin</code> .</p>
+<code>sudo dpkg -i thepayloadghost-version-architecture.deb</code>
 <br>
-<p>Otherwise, try manually downloading the following dependencies (in many Linux distributions they come from the package manager):</p>
+<h6>BlackArch amd64 from Arch Linux</h6>
+<code>wget https://www.github.com/TheHorseOnFireARG/ThePayloadGhost/Arch/PKGBUILD</code>
+<br>
+<code>sudo pacman -U PGKBUILD </code>
 <hr>
+<p>Otherwise, try manually downloading the following dependencies (in many Linux distributions they come from the package manager):</p>
+<br>
 <h1>Installation:</h1>
 <p>In your linux environment you should have the dependencies shown below and the steps above.
 Here are the commands to automate everything (TPG does not have a program to uninstall so remember the steps).</p>
 <br>
 <code>
-unzip Images.zip > chmod +x tpg Images > cp -r Images /usr/share/ > cp tpg /bin
+unzip Imagenes.zip > sudo chmod +x thepayloadghost Images > cp -r Imagenes /usr/share/ > cp thepayloadghost /bin > cp tpg.desktop /usr/share/applications
 </code>
 <hr>
 <h1>dependencies</h1>
